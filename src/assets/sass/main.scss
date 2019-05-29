@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Libre+Baskerville');
+
+// Custom Variables and Functions
+
+// @import 'variables';		// this file includes any customization to Bulma variables
+@import 'spacing';
+
+// Import complete Bulma
+// @import '~bulma/bulma';
+
+// Import what you need from Bulma
+@import "~bulma/sass/utilities/_all.sass";
+@import "~bulma/sass/base/_all.sass";
+@import "~bulma/sass/grid/_all.sass";
+@import "~bulma/sass/elements/button.sass";
+@import "~bulma/sass/elements/container.sass";
+@import "~bulma/sass/elements/title.sass";
+@import "~bulma/sass/layout/section.sass";
+@import "~bulma/sass/components/card.sass";
